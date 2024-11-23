@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile!  
 
-## 👩‍💻 About Me  
+## 👩‍💻 About Me  ![Profile Picture](https://your-link-to-image.com)
 - 🌟 **Passionate Developer**: I enjoy solving real-world problems through coding and creating intuitive, user-friendly applications.  
 - 🌱 **Currently Learning**: Web development with Django, focusing on features like AJAX-powered search and wishlist functionality.  
 - 💻 **Tech Enthusiast**: Exploring Python, Django, React, and other technologies to strengthen my full-stack development skills.  
