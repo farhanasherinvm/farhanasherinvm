@@ -8,7 +8,8 @@ Welcome to my GitHub profile!
 - 💻 **Tech Enthusiast**: Exploring Python, Django, React, and other technologies to strengthen my full-stack development skills.  
 - 🚀 **Future Goals**: My goal is to become a **full-stack developer**, mastering both front-end and back-end technologies to build dynamic and scalable web applications.  
 
-## 👀 Interests  
+## 👀 Interests 
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 - 💡 Coding innovative solutions.  
 - 🌍 Building scalable and impactful web applications.  
 - 📖 Continuous learning in software development and technology trends.
